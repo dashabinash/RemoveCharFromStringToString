@@ -1,0 +1,2 @@
+# This program will demonstrate you about how to remove characters from one string ,which are already present in 
+  other String
